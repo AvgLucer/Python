@@ -2,7 +2,7 @@ Product Billing System
 
 A simple Python project that calculates the total price of multiple products and applies a ₹100 discount to each product priced at ₹500 or more.
 
-Features
+Features:
 Add multiple products
 Enter product prices
 Automatic ₹100 discount on eligible products
