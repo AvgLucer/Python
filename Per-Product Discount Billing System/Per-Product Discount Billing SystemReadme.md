@@ -8,3 +8,7 @@ Enter product prices
 Automatic ₹100 discount on eligible products
 Displays total price before and after discount
 Handles invalid price input using exception handling
+
+
+
+[Update : Make Sure to Rate my Repo!]
