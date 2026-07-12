@@ -1,4 +1,4 @@
-# 🏢 PyStaff
+# 🏢 StaffForge
 
 A beginner-friendly Company Management System built entirely in Python using Object-Oriented Programming (OOP).
 
