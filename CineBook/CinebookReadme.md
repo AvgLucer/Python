@@ -92,3 +92,5 @@ This project is intended for educational purposes and personal learning.
 
 
 [Make Sure to Rate my Repo!]
+
+[Note that these are my starter Projects of Python and Mostly the Newer Projects will have a seprate repo with dependencies , readme files , explanation , working and all , Thank You ~AvgLucer]
