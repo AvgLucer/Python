@@ -144,3 +144,5 @@ This project helped me understand:
 If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
 
 Happy Coding 🚀
+
+[Note that these are my starter Projects of Python and Mostly the Newer Projects will have a seprate repo with dependencies , readme files , explanation , working and all , Thank You ~AvgLucer]
