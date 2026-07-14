@@ -139,3 +139,6 @@ This project is open source and available under the MIT License.
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+
+
+[Note that these are my starter Projects of Python and Mostly the Newer Projects will have a seprate repo with dependencies , readme files , explanation , working and all , Thank You ~AvgLucer]
