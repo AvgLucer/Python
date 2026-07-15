@@ -7,14 +7,12 @@ for i in range(1,4):
     try:
         name = input("Enter Name of the Person :")
         age = int(input("Enter Age of the Person :"))
-        a = "Eligible for Voting"
-        b = "InEligible for Voting"
         list1.append(name)
         list2.append(age)
         if(age<18):
-            list3.append(b)
+            list3.append("InEligible for Voting")
         else:
-            list3.append(a)
+            list3.append("Eligible for Voting")
     except ValueError as e:
         print("Error Occured :" , e)
 
